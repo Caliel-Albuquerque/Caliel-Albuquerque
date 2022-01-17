@@ -1,16 +1,21 @@
-### Hi there 👋
+### Opa! Meu nome é Caliel! 👋
 
-<!--
-**Caliel-Albuquerque/Caliel-Albuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Estou sempre em evolução ⚡
 
-Here are some ideas to get you started:
+[![card](https://github-readme-stats.vercel.app/api?username=Caliel-Albuquerque&theme=radical)](https://github.com/Caliel-Albuquerque/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🖥️Linguagens que utilizo:
+
+<div style= " display: inline; margin: 10px;">
+  <img  width = "55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img  width = "55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img  width = "55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div><br>
+
+<div style = "display: relative  float: right" >
+  
+  [![Caliel-Albuquerque](https://github-readme-stats.vercel.app/api/top-langs/?username=Caliel-Albuquerque&hide=html&layout=compact&theme=radical)](https://github.com/Caliel-Albuquerque/)
+
+</div><br>
+
