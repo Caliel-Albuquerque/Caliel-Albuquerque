@@ -15,7 +15,7 @@
 
 <div style = "display: relative  float: right" >
   
-  [![Caliel-Albuquerque](https://github-readme-stats.vercel.app/api/top-langs/?username=Caliel-Albuquerque&hide=html&layout=compact&theme=radical)](https://github.com/Caliel-Albuquerque/)
+  [![Caliel-Albuquerque](https://github-readme-stats.vercel.app/api/top-langs/?username=Caliel-Albuquerque&theme=radical)](https://github.com/Caliel-Albuquerque/)
 
 </div><br>
 
