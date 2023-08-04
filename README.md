@@ -2,8 +2,9 @@
 
 #### Estou sempre em evolução ⚡
 
-[![card](https://github-readme-stats.vercel.app/api?username=Caliel-Albuquerque&theme=radical)](https://github.com/Caliel-Albuquerque/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caliel-Albuquerque&show_icons=true&theme=radical)
 
 ## 🖥️Linguagens que utilizo:
 
@@ -19,7 +20,7 @@
 
 <div style = "display: relative  float: right" >
   
-  [![Caliel-Albuquerque](https://github-readme-stats.vercel.app/api/top-langs/?username=Caliel-Albuquerque&theme=radical)](https://github.com/Caliel-Albuquerque/)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caliel-Albuquerque&layout=compact)
 
 </div><br>
 
